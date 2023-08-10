@@ -1,0 +1,1 @@
+"# maven-openapi-sample" 
