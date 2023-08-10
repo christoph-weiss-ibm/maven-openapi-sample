@@ -1,0 +1,28 @@
+[2023/08/09/17:30:00] [INFO] CommandProcessor: process { mqsicreatebar arguments: } 
+[2023/08/09/17:30:00] [INFO] CommandProcessor: process { [-showlocation, -b, C:\dev\bundesbank\Calculator_LIB\target\ace\Calculator_LIB-1.0.0.bar, -cleanBuild, -deployAsSource, -l, Calculator_LIB, -trace, -v, C:\dev\bundesbank\Calculator_LIB\target\bar-compile-trace.txt, -wmbtData] } 
+[2023/08/09/17:30:01] [INFO] CommandProcessor: process { Disable auto-build before opening the projects } 
+[2023/08/09/17:30:01] [INFO] CommandProcessor: openWorkspace {  } 
+[2023/08/09/17:30:01] [INFO] CommandProcessor: openWorkspace { List of libraries to be processed: Calculator_LIB } 
+[2023/08/09/17:30:01] [INFO] CommandProcessor: addReferencedProjectForAppOrLib { List of reference projects for project C:\dev\bundesbank\Calculator_LIB\.project to be processed: Java_LIB } 
+[2023/08/09/17:30:01] [INFO] OpenWorkspaceRunnable: run { Creating project: Calculator_LIB } 
+[2023/08/09/17:30:01] [INFO] OpenWorkspaceRunnable: run { Opening project: Calculator_LIB } 
+[2023/08/09/17:30:01] [INFO] OpenWorkspaceRunnable: run { Creating project: Java_LIB } 
+[2023/08/09/17:30:01] [INFO] OpenWorkspaceRunnable: run { Opening project: Java_LIB } 
+[2023/08/09/17:30:03] [INFO] CommandProcessor: process { Enable auto-build after the projects are opened } 
+[2023/08/09/17:30:03] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+[2023/08/09/17:30:19] [INFO] CommandProcessor: process { Building projects in the workspace } 
+[2023/08/09/17:30:19] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+[2023/08/09/17:30:31] [INFO] CommandProcessor: cleanBuildProjects { Done cleaning projects } 
+[2023/08/09/17:30:31] [INFO] CommandProcessor: waitForBuildsToComplete { Waiting for build to complete } 
+[2023/08/09/17:30:43] [INFO] CommandProcessor: process { Check the workspace error } 
+[2023/08/09/17:30:43] [INFO] CommandProcessor: doCompile {  } 
+[2023/08/09/17:30:43] [INFO] AddToBARFileOperation: barGeneratorDelegate { Adding Calculator_LIB/.project to BAR file } 
+[2023/08/09/17:30:43] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding Calculator_LIB/CommonCalc/SimpleFunctions.esql to BAR file } 
+[2023/08/09/17:30:43] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding Calculator_LIB/library.descriptor to BAR file } 
+[2023/08/09/17:30:43] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding Calculator_LIB/library.descriptor to BAR file } 
+[2023/08/09/17:30:43] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding Calculator_LIB/pom-ibmint.xml to BAR file } 
+[2023/08/09/17:30:43] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding Calculator_LIB/pom-org.xml to BAR file } 
+[2023/08/09/17:30:43] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding Calculator_LIB/pom.xml to BAR file } 
+[2023/08/09/17:30:43] [INFO] ApplicationAddOperation: barGeneratorDelegate { Adding Java_LIB/.classpath to BAR file } 
+[2023/08/09/17:30:43] [INFO] CommandProcessor: saveBar {  } 
+[2023/08/09/17:30:43] [INFO] CommandProcessor: closeWorkspace {  } 

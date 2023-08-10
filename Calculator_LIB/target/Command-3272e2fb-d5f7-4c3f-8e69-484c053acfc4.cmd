@@ -1,0 +1,1 @@
+ C:\PROGRA~1\IBM\ACE\12.0.9.0\server\bin/mqsiprofile &mqsicreatebar -data C:\dev\bundesbank\Calculator_LIB\.. -b C:\dev\bundesbank\Calculator_LIB\target\ace\Calculator_LIB-1.0.0.bar -cleanBuild -deployAsSource -l Calculator_LIB -trace -v C:\dev\bundesbank\Calculator_LIB\target\bar-compile-trace.txt

@@ -1,0 +1,26 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "OpenSumAPI",
+    "version": "1.0.0",
+    "description": "OpenSumAPI"
+  },
+  "servers": [
+    {
+      "url": "/opensumapi/v1"
+    }
+  ],
+  "paths": {
+    "/sample": {
+      "post": {
+        "responses": {
+          "200": {
+            "description": "success"
+          }
+        },
+        "parameters": []
+      }
+    }
+  },
+  "security": []
+}
